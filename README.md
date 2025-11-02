@@ -49,10 +49,41 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo-name>.git
-
+git clone https://github.com/Vishalch118/Mall-Customer-Segmentation-Using-K---Means-Clustering
 # Navigate into the project directory
-cd <your-repo-name>
+cd Mall-Customer-Segmentation-Using-K---Means-Clustering
 
 # Install dependencies
 pip install -r requirements.txt
+```
+## Dependencies
+
+Make sure you have the following Python libraries installed:
+```
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
+## 📈 Results
+
+After training the K-Means model, the notebook produces:
+
+Elbow Method Plot – to find the best number of clusters (k) 
+We must decide the k value by finding the point where there is a sudden drop in the curve, take the X cordinate of that point as k
+in case of multiple sudden drops take the point which gives steep drop. 
+example :
+
+
+Cluster Visualization – showing customer segmentation based on spending score and annual income
+
+Example Segments:
+
+Low income, low spending
+
+Low income, high spending
+
+Average income, average spending
+
+High income, low spending
+
+High income, high spending
+
+These segments can help businesses better target customer groups with tailored marketing strategies.
