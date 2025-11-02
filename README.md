@@ -71,7 +71,7 @@ We must decide the k value by finding the point where there is a sudden drop in 
 in case of multiple sudden drops take the point which gives steep drop. 
 example : 
 <p align="center">
-  <img src="Screenshot 2025-11-02 122133.png" alt="Customer Clusters" width="200"/>
+  <img src="Screenshot 2025-11-02 122133.png" alt="Customer Clusters" width="350"/>
 </p>
 
 
