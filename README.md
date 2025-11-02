@@ -69,7 +69,10 @@ After training the K-Means model, the notebook produces:
 Elbow Method Plot – to find the best number of clusters (k) 
 We must decide the k value by finding the point where there is a sudden drop in the curve, take the X cordinate of that point as k
 in case of multiple sudden drops take the point which gives steep drop. 
-example :
+example : 
+<p align="center">
+  <img src="Screenshot 2025-11-02 122133.png" alt="Customer Clusters" width="600"/>
+</p>
 
 
 Cluster Visualization – showing customer segmentation based on spending score and annual income
