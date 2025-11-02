@@ -1,1 +1,1 @@
-# Mall-Customer-Segmentation-Using-K---Means-Clustering
+# Mall Customer Segmentation Using-K Means Clustering
